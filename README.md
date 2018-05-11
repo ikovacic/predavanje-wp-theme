@@ -1,4 +1,4 @@
-# 15. WordPress Meetup Zagreb - theme
+# WEBLICA 2018 - theme
 
 Version 1.0
 
