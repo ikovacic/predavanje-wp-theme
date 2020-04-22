@@ -1,4 +1,4 @@
-# WEBLICA 2018 - theme
+# Predavanje - WP theme
 
 Version 1.0
 
